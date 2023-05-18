@@ -1,0 +1,13 @@
+/home/DsF/Documents/LearnRust/0x00-basics/combiner/target/debug/deps/gif-f6cb5fdc3b58aa28.rmeta: /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/DsF/Documents/LearnRust/0x00-basics/combiner/target/debug/deps/libgif-f6cb5fdc3b58aa28.rlib: /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/DsF/Documents/LearnRust/0x00-basics/combiner/target/debug/deps/gif-f6cb5fdc3b58aa28.d: /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs /home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md
+
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/lib.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/traits.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/common.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/mod.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/reader/decoder.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/encoder.rs:
+/home/DsF/.cargo/registry/src/github.com-1ecc6299db9ec823/gif-0.11.4/src/../README.md:

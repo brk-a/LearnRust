@@ -1,0 +1,1 @@
+/home/DsF/Documents/LearnRust/0x00-basics/combiner/target/release/combiner: /home/DsF/Documents/LearnRust/0x00-basics/combiner/src/args.rs /home/DsF/Documents/LearnRust/0x00-basics/combiner/src/main.rs

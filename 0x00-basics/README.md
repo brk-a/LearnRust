@@ -2,33 +2,32 @@
 learn the basics of Rust
 
 ### what to learn
-* env arguments
+* `env` arguments
 * `nth` method
 * strings to floats
 * functions
 * `if` statements
-* match control flow
-* panicking!
+* `match` control flow
+* `panic!`ing
 * build a release
-* image combiner
-* args module
+* `args` module
 * structs
 * new modules
 * private vs public
-* New function
-* derive the debug trait
+* `new` function
+* `#[derive(Debug)]` trait
 * `get_nth_arg` in structs
 * external crates
 * decode images
 * destructure tuples
 * import missing types
-* handle format errors with `result`
+* handle format errors with `Result`
 * enums
 * resizing images
 * `FloatingImage` struct
-* buffers with `vecs`
+* buffers with `Vec`s
 * `TryInto` conversions
-* derive debug for enums
+* `#[derive(Debug)]` for enums
 * run code with images
 * combine image pixels
 * borrows and references
@@ -37,3 +36,7 @@ learn the basics of Rust
 * save the new image
 * use the image combiner
 * better error handling
+
+### projects
+* rudimentary command line calculator
+* image combiner
